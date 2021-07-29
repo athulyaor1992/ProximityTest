@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProximityTest</string>
+    <string name="aqiName">AQI Monitoring</string>
+</resources>
